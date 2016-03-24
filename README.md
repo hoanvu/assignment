@@ -1,2 +1,2 @@
-# assignment
-My solution to some assignments
+# Simple program to classify height
+See height_classification.py
